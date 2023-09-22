@@ -103,6 +103,7 @@ hr{
 
 
 
+
 @media (max-width:2000x){
     .mobile{
         display: none;
@@ -118,8 +119,8 @@ hr{
     }
     .text{
         margin: 0 0 70px 18px;
-    position: relative;
-    top: -153px;
+        position: relative;
+        top: -240px;
     }
     .text h1{
         text-align: center;
