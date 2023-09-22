@@ -104,11 +104,6 @@ hr{
 
 
 
-@media (max-width:2000x){
-    .mobile{
-        display: none;
-    }
-}
 @media (max-width:1300px) {
     .content{
         width: 50%;
@@ -150,6 +145,33 @@ hr{
         display: none;
     }
 }
+
+
+
+@media (max-width:650px){
+    .text{
+        top: -280px;
+    
+    }
+    .mobile img{
+        width: 200px;
+    }
+}
+
+
+@media (max-width:300px){
+    .text{
+        top: -356px;
+        margin: 0;
+    }
+    .mobile img{
+        width: 130px;
+    }
+}
+
+
+
+
 
 
 
