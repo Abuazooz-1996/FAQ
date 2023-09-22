@@ -132,6 +132,7 @@ hr{
         position: relative;
         top: -184px;
         left: 16px;
+        z-index: 99
     }
     .mobile img{
         display: block;
